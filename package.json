@@ -1,0 +1,25 @@
+{
+  "name": "marrie.js",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mpahenrique/marrie.js.git"
+  },
+  "author": [
+    {
+        "name" : "Felipe Castro Costa do Sacramento",
+        "github" : "https://github.com/felipeccsacramento"
+    },
+    {
+        "name" : "Henrique Matheus Pereira Aveiro",
+        "github" : "https://github.com/mpahenrique"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpahenrique/marrie.js/issues"
+  },
+  "homepage": "https://github.com/mpahenrique/marrie.js#readme"
+}
