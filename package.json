@@ -21,5 +21,17 @@
   "bugs": {
     "url": "https://github.com/mpahenrique/marrie.js/issues"
   },
-  "homepage": "https://github.com/mpahenrique/marrie.js#readme"
+  "homepage": "https://github.com/mpahenrique/marrie.js#readme",
+  "application": {
+    "methods": [
+      "util",
+      "use",
+      "load",
+      "route",
+      "listen"
+    ]
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
 }
